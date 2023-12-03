@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{DD6BD384-B88D-B74B-04F7-1F61D14ADBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy", "Tayx.Graphy.csproj", "{42256F30-260F-E2F0-7BA0-A0B671B413EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tayx.Graphy.Editor", "Tayx.Graphy.Editor.csproj", "{E73AAE3A-B011-DE81-005E-70DC56E1338F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD6BD384-B88D-B74B-04F7-1F61D14ADBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6BD384-B88D-B74B-04F7-1F61D14ADBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6BD384-B88D-B74B-04F7-1F61D14ADBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6BD384-B88D-B74B-04F7-1F61D14ADBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42256F30-260F-E2F0-7BA0-A0B671B413EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42256F30-260F-E2F0-7BA0-A0B671B413EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42256F30-260F-E2F0-7BA0-A0B671B413EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42256F30-260F-E2F0-7BA0-A0B671B413EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E73AAE3A-B011-DE81-005E-70DC56E1338F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E73AAE3A-B011-DE81-005E-70DC56E1338F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E73AAE3A-B011-DE81-005E-70DC56E1338F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E73AAE3A-B011-DE81-005E-70DC56E1338F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
